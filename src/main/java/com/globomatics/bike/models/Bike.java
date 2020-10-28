@@ -4,6 +4,7 @@ import java.math.BigDecimal;
 import java.sql.Date;
 
 public class Bike {
+
 	private String name;
 	private String email;
 	private String phone;
